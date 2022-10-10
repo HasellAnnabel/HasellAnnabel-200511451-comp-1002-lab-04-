@@ -1,0 +1,6 @@
+table,tr,td,th {
+  border: 4;
+  border-color: purple;
+  padding: 1em;
+  
+}
